@@ -23,3 +23,5 @@ Storage: 500 MB free disk space
 
 
 # RESULT:
+DIAGRAMS DRAWN SUCCESSFULLY
+
