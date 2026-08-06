@@ -1,8 +1,17 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-
+To analyze, design, and model a Railway Management System using UML diagrams, including the Use Case Diagram, Class Diagram, Communication Diagram, Sequence Diagram, Collaboration Diagram, and Activity Diagram, in order to represent the system's structure, interactions, and workflow.
 # SRS (Procedure):
+Operating System: Windows 10/11 or Linux
+
+UML Modeling Tool: StarUML / Visual Paradigm / Draw.io / Lucidchart
+
+Processor: Intel Core i3 or above
+
+RAM: 4 GB minimum
+
+Storage: 500 MB free disk space
 
 # DIAGRAMS:
 <img width="1161" height="792" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/e74b5d9f-7289-460e-937d-e05ee847e669" />
